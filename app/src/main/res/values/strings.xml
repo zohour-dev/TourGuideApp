@@ -1,0 +1,288 @@
+<resources>
+    <string name="app_name">AQABA</string>
+    <string name="overview_tab_name">OVERVIEW</string>
+    <string name="attractions_tab_name">ATTRACTIONS</string>
+    <string name="restaurants_tab_name">RESTAURANTS</string>
+    <string name="hotels_tab_name">HOTELS</string>
+    <string name="diving_tab_name">DIVING CENTERS</string>
+
+    <!-- Overview Text -->
+    <string name="overview_text_view">Jordan’s only coastal city sits on
+        the Gulf of Aqaba and is home to the country’s only seaport.
+        As the gateway city to the famous desert landscapes of Wadi Rum,
+        Aqaba receives a good share of tourists and
+        holds a reputation for rich marine life in its warm Red Sea waters.</string>
+
+    <!-- Hotels List -->
+    <!-- Al Manara, A Luxury Collection Hotel, Saraya Aqaba -->
+    <string name="almanara_hotel_name">Al Manara, A Luxury Collection Hotel, Saraya Aqaba</string>
+    <string name="almanara_hotel_description">A luxurious, emblematic manor house, Al Manara,
+        a Luxury Collection Hotel, Saraya Aqaba represents Jordan’s rich heritage and hidden treasures.
+        Located on the shores of the Red Sea, our hotel is a priceless gem in the ancient port city of Aqaba.
+        Enjoy a variety of culinary tastes from Mediterranean,
+        to Seafood and Middle Eastern cuisine curated by our master chefs or simply relax in our Spa with treatments inspired by Asia,
+        Europe and Middle East. Experience a unique opportunity to visit Wadi Rum and Petra,
+        explore the wonders they have to offer and dive in one of
+        the best scuba diving spots in the world - The Red Sea.</string>
+    <string name="almanara_hotel_location">Al-Hashemi Street, Aqaba 77110 Jordan</string>
+    <string name="almanara_hotel_phone_number">+962 3 202 1000</string>
+
+    <!-- InterContinental Aqaba Resort -->
+    <string name="interContinental_hotel_name">InterContinental Aqaba Resort</string>
+    <string name="interContinental_hotel_description">A PRIVATE PARADISE ON JORDAN’S RED SEA.
+        InterContinental Aqaba Resort combines relaxing atmospheres and welcoming accommodations.
+        This Red Sea beach resort has exceptional views of the Gulf of Aqaba,
+        which is well known for its coral reef scuba diving and water sports.</string>
+    <string name="interContinental_hotel_location">King Hussein Street, Aqaba 2311 Jordan</string>
+    <string name="interContinental_hotel_phone_number">+962 3 209 2222</string>
+
+    <!-- Hyatt Regency Aqaba Ayla Resort -->
+    <string name="hayat_hotel_name">Hyatt Regency Aqaba Ayla Resort</string>
+    <string name="hayat_hotel_description">Hyatt Regency Aqaba Ayla Resort is a scenic retreat nestled midst towering mountains,
+        dazzling blue lagoons, exclusive marina and the fairways of the 18-hole Ayla Golf Club.
+        Indulge yourself at our tranquil spa, build sand castles with the kids
+        or simply sit back and relax by one of our pools.</string>
+    <string name="hayat_hotel_location">Marina Village Ayla, Aqaba 77110 Jordan</string>
+    <string name="hayat_hotel_phone_number">+962 3 204 1234</string>
+
+    <!-- Movenpick Resort and Residences Aqaba -->
+    <string name="movenpick_hotel_name">Movenpick Resort and Residences Aqaba</string>
+    <string name="movenpick_hotel_description">Welcome to the ancient trading centre of Aqaba.
+        At the Mövenpick Resort Aqaba,on the shores of the Red Sea, business travellers can attend to business
+        and also relax in a perfect cultural and culinary environment.With our Swiss hospitality we will fulfill all your wishes.</string>
+    <string name="movenpick_hotel_location">King Hussein Street, Aqaba 77110 Jordan</string>
+    <string name="movenpick_hotel_phone_number">+962 3 203 4020</string>
+
+    <!-- Movenpick Resort & Spa Tala Bay Aqaba -->
+    <string name="movenpick_spa_hotel_name">Movenpick Resort and Spa Tala Bay Aqaba</string>
+    <string name="movenpick_spa_hotel_description">The southern shores of the Red Sea are an idyllic destination blessed with year round sunshine.
+        The Mövenpick Resort and Spa Tala Bay Aqaba is a striking property nestled on the bay’s warm,
+        palm-fringed shores and yet just 15 minutes from the city centre of Aqaba and
+        only 25 minutes from King Hussein International Airport.</string>
+    <string name="movenpick_spa_hotel_location">South Beach Road Tala Bay Area - Aqaba, Aqaba 77110 Jordan</string>
+    <string name="movenpick_spa_hotel_phone_number">+962 3 209 0300 </string>
+
+    <!-- Kempinski Hotel Aqaba Red Sea -->
+    <string name="kempinski_hotel_name">Kempinski Hotel Aqaba Red Sea</string>
+    <string name="kempinski_hotel_description">Gracefully situated on the white sandy beaches and azure waters of the Red Sea,
+        The Kempinski Hotel Aqaba offers a transcendent sensory experience. With an array of culinary options,
+        leisure activities, and top-tier pampering and perfectly at home within its picturesque surroundings,
+        this resort is heaven to explorers and leisure seekers alike. Set against a stunning backdrop,
+        the hotel combines the warmth of the Jordanians with the highest standards of a luxury European resort.
+        Style is contemporary chic and the resort’s fascinating tear drop design guarantees sea views from every room,
+        complemented by luxurious facilities and state-of-the-art technology.
+        There are three lounges and three eateries to choose from serving everything from extensive gourmet buffets,
+        delicious fresh seafood and an assortment of tantalizing treats. At night the hotel blossoms with wondrous facade lighting,
+        paving the way for an unforgettable evening of cocktails and malts, around the sunken pool or at Aqua Lounge,
+        a favourite with romantics due to its gorgeous views of the Red Sea. For pampering and healing both inside and out,
+        Kempinski The Spa offers a journey of tranquility with treatments using an assortment of luxurious elixirs and ingredients.
+        With a fully equipped gym overlooking the ocean, the resort offers everything your body needs to unwind and rejuvenate.
+        It goes without saying that the diving here is incredible and guests can explore the largest collection of natural soft corals
+        in the world when delving into the glittery, calm waters. Aqaba is a warm and inviting city, fringed with palm trees,
+        shopping and a vast array of leisure, sporting and entertainment facilities. Ideal for year round sunshine,
+        Kempinski Aqaba is the perfect location to explore all the delights that Jordan has to offer.</string>
+    <string name="kempinski_hotel_location">King Hussein Street, Aqaba 77110 Jordan</string>
+    <string name="kempinski_hotel_phone_number">+962 3 209 0888</string>
+
+    <!-- DoubleTree by Hilton Hotel Aqaba -->
+    <string name="double_tree_hotel_name">DoubleTree by Hilton Hotel Aqaba</string>
+    <string name="double_tree_hotel_description">DoubleTree by Hilton Aqaba is a 5 star hotel and centrally located in the heart of the business district in Aqaba,
+        Jordan. King Hussein International Airport (AQJ) is less than 15 minutes from this Jordan hotel,
+        where you will be welcomed with a DoubleTree chocolate chip walnut cookie.
+        Featuring contemporary Italian design, our spacious guest rooms and suites provide a peaceful retreat with views of the city or the Red Sea.
+        Enjoy a 50-inch LED TV, complimentary WiFi and a large desk. Superior rooms provide private balconies furnishing stunning views of the Red Sea.
+        Discover several dining outlets offering a range of culinary options. Start your day with our breakfast buffet at Gusto.
+        Visit Tree Cafe for coffee and light snacks or lounge by the pool and enjoy views of the Red Sea at Infinity bar,
+        while sipping cocktails or eating a snack. Cheer for your team and enjoy your time with friends at King\'s Sports Bar.
+        At night, chill out at Diwan The View Rooftop Lounge.</string>
+    <string name="double_tree_hotel_location">Al-Hammamat Al-Tunisyya Street, Aqaba 77110 Jordan</string>
+    <string name="double_tree_hotel_phone_number">+962 3 209 3209</string>
+
+    <!-- Restaurants List -->
+    <!-- Red Sea Grill -->
+    <string name="red_sea_grill_restaurant_name">Red Sea Grill</string>
+    <string name="red_sea_grill_restaurant_description">Red Sea Grill: Complete with a magnificent panoramic view of the Gulf of Aqaba
+        from our popular terrace restaurant located on the hotel\'s private beach,
+        the Red Sea Grill is the perfect spot to sit back and savor succulent al fresco seafood
+        prepared under the Arabian stars. The Red Sea Grill -
+        open during the summer month for dinner service from 7.00 pm to 12.00 midnight.</string>
+    <string name="red_sea_grill_restaurant_location">King Hussein Street, Aqaba 77110 Jordan</string>
+    <string name="red_sea_grill_restaurant_phone_number">+962 3 203 4020</string>
+
+    <!-- Al-Shami -->
+    <string name="alshami_restaurant_name">Al-Shami</string>
+    <string name="alshami_restaurant_description">Al Shami Restaurant is one of the best Restaurant in Aqaba,
+        We offer The best Middle east Cuisine The Restaurant offers out door and Indoor Seating with stunning
+        view of the Red Sea of Aqaba. Guest Satisfaction is our Goal.</string>
+    <string name="alshami_restaurant_location">Al Raghadan street, Aqaba 77110 Jordan</string>
+    <string name="alshami_restaurant_phone_number">+962 3 201 6107</string>
+
+    <!-- Mirwas Restaurant and Cafe -->
+    <string name="mirwas_retaurant_name">Mirwas Restaurant and Cafe</string>
+    <string name="mirwas_retaurant_description">Seafood , Fish , Lobster , Shrimps , Salmon , Healthy Food , Vegetarian Friendly ,
+        Middle Eastern , Soups , Vegan Options , International, Barbecue, Italian , Pasta , Pizza , Nachos ,
+        Steak House , Burger , Cafe , Ice cream, Shisha, Juice and Smoothies, Cake.</string>
+    <string name="mirwas_retaurant_location">Royal Yacht Club, Aqaba 77110 Jordan</string>
+    <string name="mirwas_retaurant_phone_number">+962 7 9979 9988</string>
+
+    <!-- khubza & seneya -->
+    <string name="khubza_seneya_restaurant_name">Khubza and Seneya</string>
+    <string name="khubza_seneya_restaurant_description">We offer Avery tasty Middle Eastern food with a twist in a cozy and relaxed place,
+        we grant you the best experience with Arabic and traditional Jordanian food. "different for a reason"</string>
+    <string name="khubza_seneya_restaurant_location">Al Nahda Street, Aqaba Lacosta Hotel Building, Aqaba 77110 Jordan</string>
+    <string name="khubza_seneya_restaurant_phone_number">+962 7 9791 3039</string>
+
+    <!-- Burj Al Hamam -->
+    <string name="burj_alhamam_restaurant_name">Burj Al Hamam</string>
+    <string name="burj_alhamam_restaurant_description">Lebanese food has become common in many parts of the world,
+        but is rarely served in such a scrumptious way.
+        Enjoy the authentic Lebanese cuisine at our Burj Al Hamam where you will be fulfilled with our wide range of home
+        cooking and fresh seafood daily. Navigate through our delicious wide selection of cold and hot mezza and don\'t miss
+        out the luscious choices of main courses for lunch or dinner</string>
+    <string name="burj_alhamam_restaurant_location">King Hussein Street InterContinental Aqaba Resort, Aqaba 2311 Jordan</string>
+    <string name="burj_alhamam_restaurant_phone_number">+962 3 209 2222</string>
+
+    <!-- The Greek Corner -->
+    <string name="greek_corner_retaurant_name">The Greek Corner</string>
+    <string name="greek_corner_retaurant_description">The Greek Corner is Greek Restaurant which we offer delicious dishes and fast food such as Souvlaki,
+        Gyro, Pizzas and Salads with the original greek taste in a modern and delicious style.
+        Enjoy the wonderful and fun time with friends and family with as. So Be the ceaser</string>
+    <string name="greek_corner_retaurant_location">Al Nahda Street, Aqaba 77110 Jordan</string>
+    <string name="greek_corner_retaurant_phone_number">+962 7 9005 4525</string>
+
+    <!-- Captain's Tourist Restaurant -->
+    <string name="captains_restaurant_name">Captain\'s Tourist Restaurant</string>
+    <string name="captains_restaurant_description">SINCE 1981 CAPTAIN\'S RESTAURANT With its small welcoming atmosphere Captain\'s
+        restaurant welcomes up to 200 Guests in its pleasant indoor venue.
+        The restaurant offers an all day dining experience - a la carte,
+        indulging the day with the finest selection of Oriental and Traditional meals and spectacular sea food cuisine.
+        Captain\'s Restaurant is one of the leading Sea Food and Oriental restaurants in Aqaba and is one of the few
+        remaining vestiges of its type. It\'s located in the middle of Aqaba city two hundred meters from down town.
+        Our mission is to be a restaurant of choice in our league, by providing an exceptional dining experience that satisfies our guests\'
+        grown-up tastes by being a \"Cut-Above\"</string>
+    <string name="captains_restaurant_location">Al Nahda Street at Captains Hotel, Aqaba 77110 Jordan</string>
+    <string name="captains_restaurant_phone_number">+962 7 9923 3111</string>
+
+    <!-- Diving Centers List -->
+    <!-- Coral Garden Diving Center -->
+    <string name="coral_garden_diving_center_name">Coral Garden Diving Center</string>
+    <string name="coral_garden_diving_center_description">Coral Garden is an authorized PADI, SDI, and SSI dive center with a 5-star reputation.
+        As a family-owned diving center, Coral Garden combines Jordanian’s distinctive hospitality with the highest diving safety standards,
+        which uphold the meaning of adventure in a unique and peaceful atmosphere.
+        With a wide range of courses, from beginner to professional level, as well as try dives for complete beginners,
+        Coral Garden has everything you need for a fantastic diving holiday experience.
+        Join Coral Garden’s diving and snorkeling programs to explore the treasures of the Red Sea.</string>
+    <string name="coral_garden_diving_center_location">Aqaba, Jordan</string>
+    <string name="coral_garden_diving_center_phone_number">+962 7 9908 5191</string>
+
+    <!-- Deep Blue Dive Center -->
+    <string name="deep_blue_dive_center_name">Deep Blue Dive Center</string>
+    <string name="deep_blue_dive_center_description">Deep Blue Dive Center started as the Gulf Company for water sports in 2008.
+        This company is located in the Jordanian resort city of Aqaba on the upper tip of the Red Sea .
+        Years after years this company was enlarged and became Deep Blue Dive Center.
+        Our diving center now offers high quality services to hundreds of divers throughout the world.
+        We offer diving excursions to certified divers, and training for all levels from beginners to experienced divers.</string>
+    <string name="deep_blue_dive_center_location">Aqaba, Jordan</string>
+    <string name="deep_blue_dive_center_phone_number">+962 7 9540 0555</string>
+
+    <!-- Arab Divers -->
+    <string name="arab_divers_name">Arab Divers</string>
+    <string name="arab_divers_description">Arab Divers has been operating for over 20 years combining more than 30 years experience in the dive industry.
+        We give individual attention to all our guests to make sure they have the best experience possible.
+        Snorkeler, novice, and experienced divers have the chance to discover the world class diving of the Red Sea from boat or shore.
+        As one of the leading PADI Centres in Jordan, we offer the full range of diving courses from Discover Scuba experiences all the way up to DIVEMASTER ranking.
+        Experience exceptional service with accommodation and free daily transfer services to and from Aqaba City Center at
+        a great value in a fun environment with Arab Divers team. The waters around Aqaba are rich in colorful corals and stunning reef fish,
+        be sure to take a look beneath the waves during your holiday.</string>
+    <string name="arab_divers_location">Aqaba, Jordan</string>
+    <string name="arab_divers_phone_number">+962 7 9641 2032</string>
+
+    <!-- Aqaba Pro Divers -->
+    <string name="aqaba_pro_divers_name">Aqaba Pro Divers</string>
+    <string name="aqaba_pro_divers_description">Aqaba Pro Divers offers daily scuba diving trips with high quality equipment.
+        We offer introductory courses for beginners as well as for certified divers.
+        Our professional staff will guide you to the best reefs and wrecks that the Red Sea has to offer!</string>
+    <string name="aqaba_pro_divers_location">Aqaba, Jordan</string>
+    <string name="aqaba_pro_divers_phone_number">+962 7 9143 5930</string>
+
+    <!-- Red Coral Dive Center -->
+    <string name="red_coral_dive_center_name">Red Coral Dive Center</string>
+    <string name="red_coral_dive_center_description">Aqaba coral diving center is a Family owned and managed in Aqaba Red Sea that offers PADI and SSI courses
+        for beginners and divers wanting to advance their training and experience. They also provide diving packages for qualified divers
+        of different diving grades and ability. “The emphasis is put on safety, with fun being a very close second.</string>
+    <string name="red_coral_dive_center_location">Aqaba, Jordan</string>
+    <string name="red_coral_dive_center_phone_number">+962796209798</string>
+
+    <!-- Aqaba Adventure Divers -->
+    <string name="aqaba_adventure_divers_name">Aqaba Adventure Divers</string>
+    <string name="aqaba_adventure_divers_description">Our village has something for everyone! Whether you’re an experienced diver,
+        a beginner looking for adventure or just in need of some relaxation bring the whole family and enjoy the fun and friendly
+        atmosphere. Spend the morning exploring one of the many beautiful sites of the aqaba marine park guided by a member of our experienced dive team. </string>
+    <string name="aqaba_adventure_divers_location">Aqaba, Jordan</string>
+    <string name="aqaba_adventure_divers_phone_number">+962 7 9907 8450</string>
+
+    <!-- Ahlan Aqaba Scuba Diving Center -->
+    <string name="ahlan_aqaba_scuba_diving_center_name">Ahlan Aqaba Scuba Diving Center</string>
+    <string name="ahlan_aqaba_scuba_diving_center_description">We offer one of the most amazing and adventurous diving trips in the Red Sea area,
+        snorkeling trips to the Aqaba Marine Park providing you with the equipment and accessories to enjoy your trip while exploring the aquatic
+        life in the Red Sea. Rentals, consultations and guide services are available and provided by our diving instructors for both certified and
+        non-certified divers. You can also begin or continue your diving education by contacting our training department. We can help you to become
+        a Master Scuba Diver or a PADI professional. So let our experienced guides show you around some of the best dive sites here in the Red Sea.</string>
+    <string name="ahlan_aqaba_scuba_diving_center_location">Aqaba, Jordan</string>
+    <string name="ahlan_aqaba_scuba_diving_center_phone_number">+962 7 9559 2095</string>
+
+    <!-- Attractions List -->
+    <!-- Sherif al-Hussein bin Ali Mosque -->
+    <string name="sherif_mosque_name">Sherif al-Hussein bin Ali Mosque</string>
+    <string name="sherif_mosque_description">Named after the leader of the Arab Revolt of 1916, and the present king’s great grandfather,
+        the grand Sherif al-Hussein bin Ali Mosque is the most remarkable place of worship in the city, and one of the its most visually
+        striking pieces of architecture. First built in 1975 and renovated and enlarged in 2011, it stands out due to the whiteness of its
+        stone, the intricacies of its minaret and its line of graceful arches.</string>
+    <string name="sherif_mosque_location">Al Malik Husayn, Aqaba 77110 Jordan</string>
+
+    <!-- Aqaba Castle -->
+    <string name="aqaba_castle_name">Aqaba Castle</string>
+    <string name="aqaba_castle_description">Only a few blocks inland from the corniche on the Gulf of Aqaba, Mamluk Castle is the site of one of the most
+        famous battles of the First World War. The battle, part of the Arab Revolt that swept through Aqaba in 1916, is immortalized in one of the memorable
+        scenes from David Lean’s 1962 film Lawrence of Arabia. Before its occupation by the ousted Ottomans, this 16th-century castle was built by the Mamluk
+        sultanate and was used for centuries as a ‘khan’, or traveler’s inn, hosting pilgrims on their southward journey to Mecca for the annual Hajj.</string>
+    <string name="aqaba_castle_location">next to the Aqaba Flagpole, Aqaba Jordan</string>
+
+    <!-- Aqaba Archaeological Museum -->
+    <string name="aqaba_arch_muesum_name">Aqaba Archaeological Museum</string>
+    <string name="aqaba_arch_muesum_description">Adjacent to the castle and close to the famous 130m-high Aqaba Flagpole, the Aqaba Archaeological Museum serves
+        as the best introduction to the city’s long history. Originally built as a palace for Hashemite dynasty founder Hussein bin Ali, it houses a collection
+        of Bronze-Age artifacts dating back to some 4,000 BC. Among some of the museum’s well-known pieces are a collection of medieval artifacts from the 7th to
+        the early 12th century, including Fatmid coins and a large inscription of a Quranic verse that once hung above Aqaba’s eastern gate.</string>
+    <string name="aqaba_arch_muesum_location">The Old City, Aqaba Jordan</string>
+
+    <!-- Aqaba Bird Observatory -->
+    <string name="aqaba_bird_observatory_name">Aqaba Bird Observatory</string>
+    <string name="aqaba_bird_observatory_description">A bird-watchers’ paradise, the Aqaba Bird Observatory is located at the northern tip of the Red Sea, close to the Eilat border,
+        and receives flocks of birds coming from Europe, Asia and Africa every migration season. The forest and wetlands cultivated here make for a stark contrast to the surrounding
+        desert and are no less beautiful for their being artificially managed. Any given season attracts more than 70 different bird species passing through this bottleneck of global
+        migration routes. Though open year round, it is best visited in the spring and autumn.</string>
+    <string name="aqaba_bird_observatory_location">King Hussain Airport Street, Aqaba, Jordan</string>
+
+    <!-- Berenice Beach Club -->
+    <string name="berenice_beach_club_name">Berenice Beach Club</string>
+    <string name="berenice_beach_club_description">Berenice Beach Club is a premium tourist destination in Aqaba, right in the heart of Aqaba’s Marine Park; offering guests quality services,
+        an in-house coral reef and fun activities ranging from excursions and water sports to dining and relaxing. With three fresh swimming pools including an infinity pool overlooking the Red Sea,
+        guests can enjoy enchanting views while their children splash away in our conveniently located kids’ pool. If tanning is the main objective, we offer our guests free sun beds along the beach.
+        If not, we have many shaded areas with water mist sprinklers so guests can stay cool. All of our facilities are wheelchair accessible to ensure an enjoyable and convenient experience for all.
+        Several times a day, we offer a free shuttle bus that will chauffeur guests to and from Berenice Beach Club. </string>
+    <string name="berenice_beach_club_location">South Beach, Aqaba 77110 Jordan</string>
+
+    <!-- B12 Beach Club at Ayla Oasis -->
+    <string name="b12_beach_name">B12 Beach Club at Ayla Oasis</string>
+    <string name="b12_beach_description">B12 Beach Club is Ayla\'s main beach, a rustic natural destination, which is also a cool and relaxing place to hang out in.
+        Nonmotorized water sports, a secure sea-water lagoon, a wake park and all-day dining, ensuring everyone is entertained at B12.</string>
+    <string name="b12_beach_location">Al-Zan Street Ayla Oasis, Aqaba 77110 Jordan</string>
+
+
+
+
+
+
+
+</resources>

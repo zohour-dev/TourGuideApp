@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="?attr/actionBarSize">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        tools:context=".DetailActivity">
+
+        <ImageView
+            android:id="@+id/detail_activity_image_view"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/detail_activity_image_view_height"
+            android:scaleType="centerCrop"
+            android:src="@drawable/ic_launcher_foreground"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <TextView
+            android:id="@+id/detail_activity_item_name_text_view"
+            style="@style/DetailActivityNameAndDescriptionStyle"
+            android:fontFamily="sans-serif"
+            android:textSize="@dimen/overview_text_size"
+            android:textStyle="bold"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/detail_activity_image_view"
+            tools:text="Item Name" />
+
+        <TextView
+            android:id="@+id/detail_activity_item_description_text_view"
+            style="@style/DetailActivityNameAndDescriptionStyle"
+            android:autoSizeTextType="uniform"
+            android:fontFamily="sans-serif-medium"
+            app:layout_constraintRight_toRightOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/detail_activity_item_name_text_view"
+            tools:text="Item Description" />
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:id="@+id/detail_activity_item_location_constraint_layout"
+            style="@style/DetailActivityConstraintLayout"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/detail_activity_item_description_text_view">
+
+            <ImageView
+                android:id="@+id/detail_activity_item_location_image_view"
+                style="@style/DetailActivityIconImageViewStyle"
+                android:src="@drawable/ic_location_on_black_24dp"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <TextView
+                android:id="@+id/detail_activity_item_location_text_view"
+                style="@style/DetailActivityLocationAndPhoneTextViewStyle"
+                app:layout_constraintLeft_toRightOf="@id/detail_activity_item_location_image_view"
+                app:layout_constraintTop_toTopOf="parent"
+                tools:text="Item Location" />
+
+        </androidx.constraintlayout.widget.ConstraintLayout>
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            style="@style/DetailActivityConstraintLayout"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/detail_activity_item_location_constraint_layout">
+
+            <ImageView
+                android:id="@+id/detail_activity_item_phone_image_view"
+                style="@style/DetailActivityIconImageViewStyle"
+                android:src="@drawable/ic_phone_black_24dp"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <TextView
+                android:id="@+id/detail_activity_item_phone_text_view"
+                style="@style/DetailActivityLocationAndPhoneTextViewStyle"
+                app:layout_constraintLeft_toRightOf="@id/detail_activity_item_phone_image_view"
+                app:layout_constraintTop_toTopOf="parent"
+                tools:text="Item Location" />
+
+        </androidx.constraintlayout.widget.ConstraintLayout>
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</ScrollView>
