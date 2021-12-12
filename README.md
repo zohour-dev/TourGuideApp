@@ -1,6 +1,8 @@
 # TourGuideApp
 Udacity_Android_Basic_Nano_Degree_Program_Project5
 
+The goal of this project is to create a Tour Guide App which presents relevant information to a user who’s visiting your city. The app is designed for Aqaba City which is located in Jordan.
+
 ![Screenshot_1639294137](https://user-images.githubusercontent.com/78722177/145704392-62c9c08d-df38-4477-b383-229687a90ced.png)
 
 ![Screenshot_1639294142](https://user-images.githubusercontent.com/78722177/145704396-934e9b28-02ac-46de-bb5e-3abfc335bc7f.png)
